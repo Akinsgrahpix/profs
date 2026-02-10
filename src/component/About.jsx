@@ -23,12 +23,12 @@ const About = () => {
       </div>
       <div className='150 flex gap-5'>
         <div className=' flex flex-col gap-3 -mt-20'>
-          <img  className='rounded-2xl h-80 w-75 shadow-2xl' src="https://plus.unsplash.com/premium_photo-1732726651771-a0d5e5d79e49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8M2QlMjBjYXJ0b29uJTIwaWxsdXN0cmF0aW9ufGVufDB8fDB8fHww" alt="" />
-          <img  className='rounded-2xl h-80 w-75 shadow-2xl' src="https://plus.unsplash.com/premium_photo-1732726651771-a0d5e5d79e49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8M2QlMjBjYXJ0b29uJTIwaWxsdXN0cmF0aW9ufGVufDB8fDB8fHww" alt="" />
+          <img  className='rounded-2xl h-80 w-75 shadow-2xl' src="https://websitedemos.net/non-profit-organization-04/wp-content/uploads/sites/1476/2023/06/home-0001.jpg" alt="" />
+          <img  className='rounded-2xl h-60 w-75 shadow-2xl' src="https://websitedemos.net/non-profit-organization-04/wp-content/uploads/sites/1476/2023/06/home-03.jpg" alt="" />
         </div>
-        <div className=' flex flex-col gap-3 -md-20'>
-          <img  className='rounded-2xl h-70 w-80 shadow-2xl' src="https://plus.unsplash.com/premium_photo-1732726651771-a0d5e5d79e49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8M2QlMjBjYXJ0b29uJTIwaWxsdXN0cmF0aW9ufGVufDB8fDB8fHww" alt="" />
-          <img  className='rounded-2xl h-70 w-80 shadow-2xl' src="https://plus.unsplash.com/premium_photo-1732726651771-a0d5e5d79e49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8M2QlMjBjYXJ0b29uJTIwaWxsdXN0cmF0aW9ufGVufDB8fDB8fHww" alt="" />
+        <div className=' flex flex-col gap-3  -mt-10'>
+          <img  className='rounded-2xl h-70 w-80 shadow-2xl' src="https://websitedemos.net/non-profit-organization-04/wp-content/uploads/sites/1476/2023/06/home-02.jpg" alt="" />
+          <img  className='rounded-2xl h-90 w-80 shadow-2xl' src="https://websitedemos.net/non-profit-organization-04/wp-content/uploads/sites/1476/2023/06/home-0004.jpg" alt="" />
         </div>
       </div>
     </div>
