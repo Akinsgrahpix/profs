@@ -3,7 +3,7 @@ import Card from './Card'
 
 const HowTo = () => {
   return (
-    <div className='flex gap-2 bg-yellow-500 max-w-250 rounded-xl divide-x mx-auto  mt-0'>
+    <div className='flex lg:flex-row flex-col gap-2 bg-yellow-500 max-w-250 rounded-xl divide-x mx-auto  mt-0'>
       <Card
       number="01."
       topic="Causes"
